@@ -23,7 +23,6 @@ Antes de instalar y ejecutar la aplicación, asegúrate de tener lo siguiente in
 - Node.js (v13.14.0 o superior)
 - npm (versión 10.8.2 o superior)
 
-Consulta el archivo `requirements.txt` para una lista detallada de dependencias.
 
 ## Instalación
 Sigue estos pasos para configurar el proyecto localmente:
@@ -51,6 +50,9 @@ Una vez que el servidor de desarrollo esté en funcionamiento, puedes acceder a 
 - Editar videos existentes.
 - Eliminar videos que ya no sean relevantes.
 - Agregar nuevos videos a la colección.
+
+El Proyecto se encuentra desplegado en : `https://alura-flix-9jbv.vercel.app/`
+ 
 
 ## Tecnologías Utilizadas
 - **Frontend:** React, Vite, JavaScript
