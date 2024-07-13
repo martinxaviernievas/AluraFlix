@@ -7,9 +7,7 @@
 4. [Instalación](#instalación)
 5. [Uso](#uso)
 6. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-7. [Contribuyendo](#contribuyendo)
-8. [Licencia](#licencia)
-9. [Contacto](#contacto)
+7. [Contacto](#contacto)
 
 ## Descripción del Proyecto
 La Aplicación Gestor de Videos es una solución completa para gestionar tutoriales en video distribuidos en diversas tecnologías. Esta aplicación permite a los usuarios ver, editar, eliminar y agregar nuevos videos categorizados bajo diferentes pilas tecnológicas como desarrollo backend y frontend.
