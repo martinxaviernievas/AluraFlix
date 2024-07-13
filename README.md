@@ -64,4 +64,6 @@ Para cualquier pregunta o sugerencia, por favor contacta a:
 
 ---
 
+###  Atención
+Este proyecto utiliza un servidor falso creado con [My JSON Server](https://my-json-server.typicode.com/).
 
