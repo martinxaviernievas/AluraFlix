@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--color-bg);
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-bg: #1a1919;
+  --color-bg-edit: #021231;
+  --color-backend: #04c76f;
+  --color-frontend: #65cbfa;
+  --color-inov-gestao: #fab609;
+  --color-error: #ff0707;
+  --color-light-gray: #a3a1a1;
+  --color-white: #FFFFFF;
+  --color-white-smoke: #f5f5f5;
+  --color-blue: #007afc;
+  --color-blue-light: #1f6ecf;
+  --color-dark-gray-border: #292828;
+  --color-black: #000000;
+  --color-brillo: #f8d50c;
+  --color-button-shadow: #09213f;
+  --color-banner: #011333;
+}

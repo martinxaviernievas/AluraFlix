@@ -27,12 +27,12 @@ function Banner({ card, categoryLookup }) {
             <div className={styles.gradient}></div> 
             <section className={styles.content}>
                 <h1 className={styles.name} style={titleStyle}>{name}</h1>
-                <h2 className={styles.title}>Challenge React</h2>
+                <h2 className={styles.title}>Challenge Final</h2>
                 <p className={styles.subtitle}>
-                    Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React.
+                    Este challenge desafia los conocimientos aprendidos sobre React.js
                 </p>
                 <button onClick={toggleDescription} className={styles.toggleButton}>
-                    {showDescription ? 'Ocultar descripción' : 'Ver descripción...'}
+                    {showDescription ? 'Ocultar la descripcion' : 'Ver la descripcion...'}
                 </button>
                 {showDescription && (
                     <div className={styles.description}>
