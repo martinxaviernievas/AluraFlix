@@ -14,8 +14,8 @@ const StyledFooter = styled.footer`
     background-color: var(--color-black);
     padding: 2rem;
     box-sizing: border-box;
-    border-top: 4px solid var(--color-blue);
-    box-shadow: 0 -10px 15px 0 var(--color-button-shadow);
+    border-top: 5px solid var(--color-blue);
+    box-shadow: 0 -9px 14px 0 var(--color-button-shadow);
 `;
 
 const IconContainer = styled.ul`
@@ -27,7 +27,6 @@ const IconContainer = styled.ul`
     li {
         background-color: var(--color-black);
         display: inline-block;
-        //margin-right: 1.5rem;
         padding: 0.5rem;
     }
 `;
